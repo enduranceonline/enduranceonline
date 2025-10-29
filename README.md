@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enduranceonline/enduranceonline/main/assets/banner-endurance.png" alt="Banner Endurance" width="100%">
+  <img src="https://raw.githubusercontent.com/enduranceonline/enduranceonline/main/assets/banner-endurance1.png" alt="Banner Endurance" width="100%">
 </p>
 
 # 👋 Hola, soy **David Rodríguez Igual**
