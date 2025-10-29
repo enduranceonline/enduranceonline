@@ -40,13 +40,13 @@ Actualmente estudio y trabajo a turnos como **operario de producción farmacéut
 - Obtener certificaciones clave para un perfil **SOC Analyst / Blue Team Junior**:
 
   ### [🎓] / [✅]  Certificaciones en curso
-  - 🎓 🧩 **CompTIA Network+ (N10-009)**
-  - [ ] 🔐 **CompTIA Security+ (SY0-701)**
-  - 🎓 🛰️ **eLearnSecurity Jr Penetration Tester (eJPT v2)**
-  - [ ] 🧠 **Blue Team Level 1 (BTL1)**
-  - [ ] 🧩 **Cisco Certified CyberOps Associate**
-  - [ ] 🛡️ **Microsoft SC-200 (Security Operations Analyst Associate)**
-  - [ ] ☁️ **Google Cybersecurity Professional Certificate**
+  - 🎓  | **CompTIA Network+ (N10-009)**
+  - [ ] | **CompTIA Security+ (SY0-701)**
+  - 🎓  | **eLearnSecurity Jr Penetration Tester (eJPT v2)**
+  - [ ] | **Blue Team Level 1 (BTL1)**
+  - [ ] | **Cisco Certified CyberOps Associate**
+  - [ ] | **Microsoft SC-200 (Security Operations Analyst Associate)**
+  - [ ] | **Google Cybersecurity Professional Certificate**
 
 - Participar en proyectos de prácticas en entornos de **seguridad corporativa** y continuar especializándome en **detección, análisis y respuesta ante incidentes**.
 
