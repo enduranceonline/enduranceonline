@@ -39,10 +39,10 @@ Actualmente estudio y trabajo a turnos como **operario de producción farmacéut
 - Crear un portafolio técnico 100 % funcional y documentado con enfoque **Blue Team**.  
 - Obtener certificaciones clave para un perfil **SOC Analyst / Blue Team Junior**:
 
-  ### [🎓] / [✅]  Certificaciones en curso
-   🎓  | **CompTIA Network+ (N10-009)**
+  ### Certificaciones en curso
+  - [ ] | **CompTIA Network+ (N10-009)**
   - [ ] | **CompTIA Security+ (SY0-701)**
-   🎓  | **eLearnSecurity Jr Penetration Tester (eJPT v2)**
+  - [ ] | **eLearnSecurity Jr Penetration Tester (eJPT v2)**
   - [ ] | **Blue Team Level 1 (BTL1)**
   - [ ] | **Cisco Certified CyberOps Associate**
   - [ ] | **Microsoft SC-200 (Security Operations Analyst Associate)**
