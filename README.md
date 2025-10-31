@@ -55,7 +55,7 @@ Actualmente estudio y trabajo a turnos como **operario de producción farmacéut
 ## 📫 Contacto
 
 - 📧 [david.rodriguez.igual@gmail.com](mailto:david.rodriguez.igual@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/davidrodriguezigual)  
+- 💼 [Mi LinkedIn](https://www.linkedin.com/in/davidrodriguezigual)  
 - 🧠 [Proyectos en GitHub](https://github.com/enduranceonline)
 
 ---
